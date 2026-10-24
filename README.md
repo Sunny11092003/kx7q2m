@@ -5,8 +5,8 @@ latest wind forecast available at decision time, and it quantifies how accurate
 those forecasts have been, so buyers can account for the error when deciding
 how much thermal power to procure.
 
-**Live app (Vercel):** (https://frontend-iota-three-7avnc1x118.vercel.app/)
-**API (Vercel), interactive docs:** (https://backend-mxlp-rho.vercel.app/)/docs
+**Live app (Vercel):** https://frontend-iota-three-7avnc1x118.vercel.app/
+**API (Vercel), interactive docs:** https://backend-mxlp-rho.vercel.app/docs
 
 ## Scope
 
